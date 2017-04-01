@@ -1,0 +1,1 @@
+parameter [7:0] w=0, CHECK_REG=1, log_count=2, pos=3, nextpos=4, address=5, direction=6, inverse_direction=7, tmp=8, sum=9, count=10, max_depth=11;
